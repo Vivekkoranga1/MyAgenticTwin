@@ -1,0 +1,9 @@
+Hey, I'm Vivek, and I'm from Bageshwar, Uttarakhand, India. I'm a third-year Bachelor of Technology (B.Tech) student, and I love technology.
+
+Currently, I'm focusing on improving my problem-solving skills, and I enjoy solving problems on LeetCode. I also like playing chess.
+
+I have experience with Python and have worked on various things, including web scraping, API integration, automation, and image and video processing. I also know Java, which I prefer to use for solving LeetCode problems.
+
+My career goal is to work in intelligent automation. I already have some experience with automation, and I'm now exploring AI to combine both fields and build intelligent solutions.
+
+I sometimes struggle with public speaking, but I'm actively working on improving my communication skills.
